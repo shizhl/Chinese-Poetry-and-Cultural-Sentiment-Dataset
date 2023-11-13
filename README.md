@@ -15,6 +15,6 @@ The data obtained has been saved in the ‘dataset’ folder under the file name
 <br>
 However, due to the uncontrolled iterative search answers provided by ChatGPT, the dataset contains some duplicate data and descriptions that do not pertain to sculpture relics.
 ## Project We Reference
-With gratitude, we utilized the dataset from the GitHub project [chinese-poetry](#https://github.com/chinese-poetry/chinese-poetry/blob/master/README.md) to access Tang poetry and Song lyrics. 
+With gratitude, we utilized the dataset from the GitHub project [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) to access Tang poetry and Song lyrics. 
 <br>
-Our sincere thanks.
+We sincere thanks.
